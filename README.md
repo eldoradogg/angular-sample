@@ -7,6 +7,6 @@
 3. Run `npm install` inside the root of this project.
 4. Run this sample application `npm run start` and verify that you are able to open it in the browser.
 5. Make sure that you are using your current device for the remote task as well.
-6. Make sure that you are able to share your screen via _Zoom_.
+6. Make sure that you are able to share your screen via _Zoom_. **Tip:** Use the Zoom desktop app instead of the browser version for better performance and lower resource consumption.
 7. Make sure you have a Github account to which you are able to login.
 8. Good luck!
